@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ccd", "ccd.csproj", "{F59EA35D-FC76-4E15-AA7C-DDA9D3EB745F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCDtesting", "..\NUnitTestProject2\CCDtesting.csproj", "{497CDD87-905C-463D-9FAC-5382B5806139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59EA35D-FC76-4E15-AA7C-DDA9D3EB745F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59EA35D-FC76-4E15-AA7C-DDA9D3EB745F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59EA35D-FC76-4E15-AA7C-DDA9D3EB745F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59EA35D-FC76-4E15-AA7C-DDA9D3EB745F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497CDD87-905C-463D-9FAC-5382B5806139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497CDD87-905C-463D-9FAC-5382B5806139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497CDD87-905C-463D-9FAC-5382B5806139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497CDD87-905C-463D-9FAC-5382B5806139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96128997-74D3-41B2-8EB3-BCCEB35D7018}
+	EndGlobalSection
+EndGlobal
